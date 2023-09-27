@@ -1,6 +1,6 @@
-import java.util.*;
+import java.lang.*;
 
-public class Animal implements java.util.Comparable<Animal> {
+public class Animal implements Comparable<Animal> {
     private int id;
 
     public int compareTo(Animal a) {

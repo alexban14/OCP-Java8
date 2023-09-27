@@ -1,3 +1,4 @@
+import java.lang.*;
 import java.util.*;
 
 // we have a bunch of Ducks and we want to sort them by name
